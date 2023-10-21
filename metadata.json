@@ -4,8 +4,9 @@
   "url": "https://github.com/tboenig/gt_structure_3_1",
   "authors": [
     {
-      "name": "Boenig",
-      "surname": "Matthias",
+      "name": "Matthias",
+      "surname": "Boenig",
+      "orcid": "0000-0003-4615-4753",
       "roles": [
         "transcriber",
         "aligner",
@@ -22,6 +23,7 @@
   "language": [
     "deu"
   ],
+  "production-software": "Aletheia",
   "script": [
     "Latn",
     "Goth"

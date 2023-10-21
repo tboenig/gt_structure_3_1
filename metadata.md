@@ -10,6 +10,8 @@
       <dd>deu</dd>
       <dt>Format:</dt>
       <dd>Page-XML</dd>
+      <dt>Production software:</dt>
+      <dd>Aletheia</dd>
       <dt>Time:</dt>
       <dd>1600-1900</dd>
       <dt>GT Type:</dt>
@@ -171,7 +173,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_3_1/releases/download/v1.0.3/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_3_1/releases/download/v1.1.0/bagitDump-v8.zip">Current version download: bagitDump-v8.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_3_1/releases">Version archive</a>
