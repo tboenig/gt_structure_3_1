@@ -21,7 +21,7 @@
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth
+         <dd>OCR-D-GT-Guideline, Part: Structure Ground Truth
 https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
          <dt>License:</dt>
          <dd>CC0-1.0</dd>
@@ -163,7 +163,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/OCR-D/gt_structure_3_1/releases/tag/v1.3.1">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 17_v1.3.1</a>
+         <a href="https://github.com/OCR-D/gt_structure_3_1/releases/tag/v1.3.2">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 18_v1.3.2</a>
       </li>
       <li>
          <a href="https://github.com/OCR-D/gt_structure_3_1/releases">Version archive</a>
@@ -232,10 +232,10 @@ An image database</p>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
                         target="_blank">NoiseRegion</a>
                   </dd>
-                  <dt>UnkownRegion</dt>
+                  <dt>UnknownRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lySonstiges.html"
-                        target="_blank">UnkownRegion</a>
+                        target="_blank">UnknownRegion</a>
                   </dd>
                   <dt>CustomRegion</dt>
                   <dd>CustomRegion</dd>
@@ -285,7 +285,7 @@ An image database</p>
                   <i>NoiseRegion</i>
                </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide13')">
-                  <i>UnkownRegion</i>
+                  <i>UnknownRegion</i>
                </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
                   <i>CustomRegion</i>
@@ -315,7 +315,7 @@ An image database</p>
             <th>MusicRegion</th>
             <th>AdRegion</th>
             <th>NoiseRegion</th>
-            <th>UnkownRegion</th>
+            <th>UnknownRegion</th>
             <th>CustomRegion</th>
             <th>TextLine</th>
             <th>Page</th>
