@@ -92,14 +92,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             </thead>
             <tbody>
                <tr>
-                  <td>jhering_recht01_1852</td>
-                  <td>69</td>
+                  <td>justi_velazquez02_1888</td>
+                  <td>64</td>
                   <td/>
                   <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -111,8 +111,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>keller_sinngedicht_1882</td>
-                  <td>42</td>
+                  <td>humboldt_aequinoktial04_1859</td>
+                  <td>41</td>
                   <td/>
                   <td/>
                   <td/>
@@ -149,8 +149,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>knigge_umgang01_1788</td>
-                  <td>58</td>
+                  <td>jahn_volksthum_1810</td>
+                  <td>44</td>
                   <td/>
                   <td/>
                   <td/>
@@ -166,6 +166,177 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td>20</td>
+               </tr>
+               <tr>
+                  <td>jhering_recht03_1865</td>
+                  <td>64</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>justi_velazquez01_1888</td>
+                  <td>75</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>koch_wundinfektionskrankheiten_1878</td>
+                  <td>60</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>krane_reitpferd_1856</td>
+                  <td>68</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>klopstock_messias01_1751</td>
+                  <td>75</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>hunold_gedichte_1702</td>
+                  <td>264</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>klaj_lobrede_1645</td>
+                  <td>95</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>keller_sinngedicht_1882</td>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>jungstilling_versuch_1779</td>
+                  <td>103</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
                </tr>
                <tr>
                   <td>klopstock_messias04_1773</td>
@@ -187,14 +358,52 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>25</td>
                </tr>
                <tr>
-                  <td>koch_wundinfektionskrankheiten_1878</td>
-                  <td>60</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>humboldt_aequinoktial03_1859</td>
+                  <td>41</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>justi_abhandlung01_1758</td>
+                  <td>64</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>immermann_muenchhausen04_1839</td>
+                  <td>64</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>11</td>
                   <td/>
                   <td/>
                   <td/>
@@ -225,348 +434,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>immermann_muenchhausen02_1839</td>
-                  <td>104</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>humboldt_aequinoktial04_1859</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>jacobi_betrachtungen02_1745</td>
-                  <td>55</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>krafft_landwirthschaft01_1875</td>
-                  <td>89</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td>6</td>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>knigge_umgang02_1788</td>
-                  <td>58</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>klopstock_gelehrtenrepublik_1774</td>
-                  <td>127</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>kerl_metallurgische_1866</td>
-                  <td>58</td>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>keller_seldwyla_1856</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>jahn_volksthum_1810</td>
-                  <td>44</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>hunold_gedichte_1702</td>
-                  <td>264</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>jungstilling_versuch_1779</td>
-                  <td>103</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>klopstock_oden_1771</td>
-                  <td>126</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>humboldt_grenzen_1851</td>
-                  <td>59</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>jhering_recht0201_1854</td>
-                  <td>78</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>immermann_muenchhausen01_1838</td>
-                  <td>44</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>humboldt_geographie_1807</td>
-                  <td>65</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>humboldt_aequinoktial03_1859</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>jung_lebensgeschichte_1835</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
                   <td>jacobi_betrachtungen01_1741</td>
                   <td>101</td>
                   <td/>
@@ -586,11 +453,30 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>26</td>
                </tr>
                <tr>
-                  <td>kentz_handwerksboden_1629</td>
-                  <td>165</td>
+                  <td>klein_geometrische_1872</td>
+                  <td>100</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>kant_aufklaerung_1784</td>
+                  <td>61</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td>2</td>
@@ -602,17 +488,17 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>26</td>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>immermann_muenchhausen04_1839</td>
-                  <td>64</td>
+                  <td>kerner_gedichte_1826</td>
+                  <td>103</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>11</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -624,27 +510,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>klaj_lobrede_1645</td>
-                  <td>95</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>kant_rvernunft_1781</td>
-                  <td>92</td>
+                  <td>ideler_wahnsinn_1847</td>
+                  <td>42</td>
                   <td/>
                   <td/>
                   <td/>
@@ -681,12 +548,563 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>kraepelin_arzneimittel_1892</td>
-                  <td>51</td>
+                  <td>kaempfer_japan02_1779</td>
+                  <td>88</td>
+                  <td/>
+                  <td/>
+                  <td>19</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>30</td>
+               </tr>
+               <tr>
+                  <td>kant_rvernunft_1781</td>
+                  <td>92</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>knigge_umgang02_1788</td>
+                  <td>58</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>klueber_recht_1817</td>
+                  <td>69</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>klopstock_messias03_1769</td>
+                  <td>113</td>
                   <td/>
                   <td/>
                   <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>kentz_handwerksboden_1629</td>
+                  <td>165</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
                   <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>jung_lebensgeschichte_1835</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>kerl_metallurgische_1866</td>
+                  <td>58</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>klopstock_messias_1749</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>kerner_besessene_1834</td>
+                  <td>48</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>kant_urtheilskraft_1790</td>
+                  <td>75</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>keller_heinrich02_1854</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>justi_abhandlung02_1758</td>
+                  <td>230</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>humboldt_grenzen_1851</td>
+                  <td>59</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>krafft_landwirthschaft03_1876</td>
+                  <td>100</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td>19</td>
+                  <td/>
+                  <td>15</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>keller_heinrich03_1854</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>krumbholz_ablehnung_1708</td>
+                  <td>69</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>keller_heinrich04_1855</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>immermann_muenchhausen01_1838</td>
+                  <td>44</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>jhering_recht0201_1854</td>
+                  <td>78</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>karsch_gedichte_1792</td>
+                  <td>57</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>immermann_muenchhausen03_1839</td>
+                  <td>52</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>krafft_landwirthschaft02_1876</td>
+                  <td>122</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td>1</td>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>jacobi_betrachtungen02_1745</td>
+                  <td>55</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>klinger_faust_1791</td>
+                  <td>70</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>knigge_umgang01_1788</td>
+                  <td>58</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>klopstock_messias02_1756</td>
+                  <td>66</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>kleist_fruehling_1749</td>
+                  <td>114</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>jacobi_allwill_1792</td>
+                  <td>47</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>klueber_voelkerrecht02_1821</td>
+                  <td>47</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -719,8 +1137,27 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>ideler_wahnsinn_1847</td>
-                  <td>42</td>
+                  <td>jhering_recht01_1852</td>
+                  <td>69</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>kant_pvernunft_1788</td>
+                  <td>95</td>
                   <td/>
                   <td/>
                   <td/>
@@ -757,33 +1194,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>25</td>
                </tr>
                <tr>
-                  <td>immermann_muenchhausen03_1839</td>
-                  <td>52</td>
+                  <td>immermann_muenchhausen02_1839</td>
+                  <td>104</td>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>klinger_faust_1791</td>
-                  <td>70</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>8</td>
                   <td/>
                   <td/>
                   <td/>
@@ -795,7 +1213,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>keller_heinrich02_1854</td>
+                  <td>keller_legenden_1872</td>
                   <td>40</td>
                   <td/>
                   <td/>
@@ -814,14 +1232,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>kerner_gedichte_1826</td>
-                  <td>103</td>
+                  <td>keller_seldwyla_1856</td>
+                  <td>40</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -833,11 +1251,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>jacobi_allwill_1792</td>
-                  <td>47</td>
+                  <td>krueger_weltweisheit_1746</td>
+                  <td>71</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -871,8 +1289,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>keller_heinrich04_1855</td>
-                  <td>40</td>
+                  <td>kaempfer_japan01_1777</td>
+                  <td>88</td>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
                   <td/>
                   <td/>
                   <td/>
@@ -881,80 +1305,17 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
+                  <td>29</td>
                </tr>
                <tr>
-                  <td>kerner_besessene_1834</td>
-                  <td>48</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>keller_heinrich03_1854</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>klein_geometrische_1872</td>
-                  <td>100</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>krafft_landwirthschaft01_1875</td>
+                  <td>89</td>
                   <td/>
                   <td/>
                   <td>6</td>
-                  <td>2</td>
+                  <td>6</td>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>klueber_recht_1817</td>
-                  <td>69</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>8</td>
                   <td/>
                   <td/>
                   <td/>
@@ -966,33 +1327,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>koelliker_entwicklungs_1861</td>
-                  <td>110</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td>1</td>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>justi_abhandlung01_1758</td>
-                  <td>64</td>
+                  <td>kliphausen_helikon_1689</td>
+                  <td>79</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1004,46 +1346,27 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>21</td>
                </tr>
                <tr>
-                  <td>justi_velazquez01_1888</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>klopstock_gelehrtenrepublik_1774</td>
+                  <td>127</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
                </tr>
                <tr>
-                  <td>justi_velazquez02_1888</td>
-                  <td>64</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>kant_pvernunft_1788</td>
-                  <td>95</td>
+                  <td>kretzer_timpe_1888</td>
+                  <td>42</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1080,142 +1403,12 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>klueber_voelkerrecht02_1821</td>
-                  <td>47</td>
+                  <td>koelliker_entwicklungs_1861</td>
+                  <td>110</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>klopstock_messias_1749</td>
-                  <td>83</td>
-                  <td/>
-                  <td/>
+                  <td>2</td>
                   <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>jhering_recht03_1865</td>
-                  <td>64</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>krueger_verbesserungen_1744</td>
-                  <td>152</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>justi_abhandlung02_1758</td>
-                  <td>230</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>kretzer_timpe_1888</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>justi_geschichte_1771</td>
-                  <td>83</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>krumbholz_ablehnung_1708</td>
-                  <td>69</td>
-                  <td/>
                   <td/>
                   <td>1</td>
                   <td/>
@@ -1226,48 +1419,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>kant_aufklaerung_1784</td>
-                  <td>61</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
                   <td>20</td>
-               </tr>
-               <tr>
-                  <td>kaempfer_japan02_1779</td>
-                  <td>88</td>
-                  <td/>
-                  <td/>
-                  <td>19</td>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>30</td>
                </tr>
                <tr>
                   <td>kant_naturgeschichte_1755</td>
@@ -1289,109 +1441,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>24</td>
                </tr>
                <tr>
-                  <td>kaempfer_japan01_1777</td>
-                  <td>88</td>
+                  <td>humboldt_geographie_1807</td>
+                  <td>65</td>
                   <td/>
                   <td/>
-                  <td>12</td>
                   <td/>
                   <td/>
-                  <td>9</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>krafft_landwirthschaft02_1876</td>
-                  <td>122</td>
-                  <td/>
-                  <td/>
-                  <td>9</td>
-                  <td>1</td>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>klopstock_messias02_1756</td>
-                  <td>66</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>keller_legenden_1872</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>kliphausen_helikon_1689</td>
-                  <td>79</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>krueger_weltweisheit_1746</td>
-                  <td>71</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1422,30 +1479,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>klopstock_messias01_1751</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
+                  <td>krueger_verbesserungen_1744</td>
+                  <td>152</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-               </tr>
-               <tr>
-                  <td>klopstock_messias03_1769</td>
-                  <td>113</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
                   <td/>
                   <td/>
                   <td>4</td>
@@ -1457,33 +1495,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>25</td>
+                  <td>21</td>
                </tr>
                <tr>
-                  <td>krafft_landwirthschaft03_1876</td>
-                  <td>100</td>
+                  <td>klopstock_oden_1771</td>
+                  <td>126</td>
                   <td/>
                   <td/>
-                  <td>2</td>
-                  <td>19</td>
-                  <td/>
-                  <td>15</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>karsch_gedichte_1792</td>
-                  <td>57</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -1495,17 +1514,17 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td>26</td>
                </tr>
                <tr>
-                  <td>krane_reitpferd_1856</td>
-                  <td>68</td>
+                  <td>kraepelin_arzneimittel_1892</td>
+                  <td>51</td>
                   <td/>
                   <td/>
                   <td>1</td>
-                  <td/>
-                  <td/>
                   <td>2</td>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1517,27 +1536,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>kant_urtheilskraft_1790</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>justi_geschichte_1771</td>
+                  <td>83</td>
                   <td/>
                   <td/>
                   <td>2</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>kleist_fruehling_1749</td>
-                  <td>114</td>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1546,13 +1552,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
+                  <td>21</td>
                </tr>
             </tbody>
          </table>
