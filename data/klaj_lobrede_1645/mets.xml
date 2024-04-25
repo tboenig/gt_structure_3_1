@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, Xb 90 (1)</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/xb-90-1s/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/xb-90-1s/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>

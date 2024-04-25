@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, A: 32.1 Geom. 2° (4)</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/32-1-geom-2f-4/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/32-1-geom-2f-4/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>

@@ -20,29 +20,34 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>UB Bielefeld</mods:physicalLocation>
+                  <mods:shelfLocator>UB Bielefeld, CK170 J96</mods:shelfLocator>
+                  <mods:url>	https://katalogplus.ub.uni-bielefeld.de/title/HT005148351</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Koppenhagen</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1758</mods:dateIssued>
+                  <mods:publisher>Rothe</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Wirtschaft</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
+                  <mods:title>Vollständige Abhandlung von denen Manufakturen und Fabriken</mods:title>
                   <mods:subTitle/>
                </mods:titleInfo>
+               <mods:part order="2">
+                  <mods:detail type="volume">
+                     <mods:number>Zweyter Theil, welcher alle einzelne Manufacturen und Fabriken nach der Eintheilung ihrer Materialien abhandelt</mods:number>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,12 +58,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Justi</mods:namePart>
+                  <mods:namePart type="given">Johann Heinrich Gottlob von</mods:namePart>
+                  <mods:displayForm>Johann Heinrich Gottlob von Justi</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>240, 562 S. [Bd. 1-2 in e. Bd.]</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +73,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Vollständige Abhandlung von denen Manufakturen und Fabriken</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
